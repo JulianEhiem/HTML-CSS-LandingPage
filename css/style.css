@@ -42,3 +42,33 @@ body{
     border-radius: 10px;
     margin-top: 20px;
 }
+
+#showcase .button:hover{
+    background-color: #ffffff;
+    color: rgb(52, 52, 189);
+}
+#sections {
+    color: rgb(21, 21, 105);
+}
+
+#section-a{
+    padding: 20px;
+    background:  rgb(21, 21, 105);
+    color: #ffffff;
+    text-align: center;
+}
+#section-b{
+    padding: 20px;
+    background:  #f4f4f4;
+    text-align: center;
+}
+
+#section-c{
+    display: flex;
+    text-align: center;
+}
+
+#section-c .box-1, #section-c .box-3{
+    background:rgb(21, 21, 105) ;
+    color: #ffffff;
+}
