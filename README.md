@@ -4,6 +4,9 @@
 
 This tutorial project is to help familiarize myself with HTML and CSS as well as playing with positioning and working with images
 
+## Demo
+Here's a working live demo of this project: https://julianehiem.github.io/HTML-CSS-LandingPage/
+
 ## Features
 
 Some of the Features of the Landing Page are;
